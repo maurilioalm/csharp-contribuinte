@@ -1,0 +1,13 @@
+Z:\3-C# .NET\ws-c#\Contribuintes137\Contribuintes137\bin\Debug\netcoreapp3.1\Contribuintes137.exe
+Z:\3-C# .NET\ws-c#\Contribuintes137\Contribuintes137\bin\Debug\netcoreapp3.1\Contribuintes137.deps.json
+Z:\3-C# .NET\ws-c#\Contribuintes137\Contribuintes137\bin\Debug\netcoreapp3.1\Contribuintes137.runtimeconfig.json
+Z:\3-C# .NET\ws-c#\Contribuintes137\Contribuintes137\bin\Debug\netcoreapp3.1\Contribuintes137.runtimeconfig.dev.json
+Z:\3-C# .NET\ws-c#\Contribuintes137\Contribuintes137\bin\Debug\netcoreapp3.1\Contribuintes137.dll
+Z:\3-C# .NET\ws-c#\Contribuintes137\Contribuintes137\bin\Debug\netcoreapp3.1\Contribuintes137.pdb
+Z:\3-C# .NET\ws-c#\Contribuintes137\Contribuintes137\obj\Debug\netcoreapp3.1\Contribuintes137.csprojAssemblyReference.cache
+Z:\3-C# .NET\ws-c#\Contribuintes137\Contribuintes137\obj\Debug\netcoreapp3.1\Contribuintes137.AssemblyInfoInputs.cache
+Z:\3-C# .NET\ws-c#\Contribuintes137\Contribuintes137\obj\Debug\netcoreapp3.1\Contribuintes137.AssemblyInfo.cs
+Z:\3-C# .NET\ws-c#\Contribuintes137\Contribuintes137\obj\Debug\netcoreapp3.1\Contribuintes137.csproj.CoreCompileInputs.cache
+Z:\3-C# .NET\ws-c#\Contribuintes137\Contribuintes137\obj\Debug\netcoreapp3.1\Contribuintes137.dll
+Z:\3-C# .NET\ws-c#\Contribuintes137\Contribuintes137\obj\Debug\netcoreapp3.1\Contribuintes137.pdb
+Z:\3-C# .NET\ws-c#\Contribuintes137\Contribuintes137\obj\Debug\netcoreapp3.1\Contribuintes137.genruntimeconfig.cache
